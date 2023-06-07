@@ -1,0 +1,34 @@
+
+  :root {
+    --f13LIGHTBEAKTOP:    rgba(252,168,2,1);     /* #fca802 */  
+    --f14MEDBEAKTOP:      rgba(182,121,2,1);     /* #b67902 */
+    --f15DARKBEAKTOP:     rgba(120,80,1,1);      /* #785001  */ 
+  
+    --f1DARKDUCKHEAD:     rgba(30,59,40,1);      /* #1e3b28 */                    
+    --f2MEDDUCKHEAD:      rgba(40,79,53,1);      /* #284f35 */    
+    --f3LIGHTDUCKHEAD:    rgba(82,143,133,1);    /* #528f85 */
+    
+    --f4DARKBLUEFEATHER:  rgba(36,85,141,1);     /* #24558d  */ 
+    --f6MEDBLUEFEATHER:   rgb(42, 97, 161);      /* #419aff */ 
+    --f6LIGHTBLUEFEATHER: rgba(65,154,255,1);    /* #419aff */ 
+    
+    --f7DARKDUCKCHEEKS:   rgba(54,46,71,1);      /*  #362e47 */
+    --f8MEDDUCKCHEEKS:    rgba(107,91,141,1);    /* #6b5b8d */ 
+    --f9LIGHTDUCKCHEEKS:  rgba(160,136,210,1);   /* #362e47 */ 
+    
+    --f10DARKNECK:        rgba(65,42,50,1);      /* #412a32 */  
+    --fr11MEDNECK:        rgba(152, 100, 141,1); /* #c68199 */
+    --fr12LIGHTNECK:      rgba(198,129,183,1);   /* #c68199 */
+   
+    --f19DARKWING:        rgba(60,48,46,1);      /*  #3c302e */
+    --f20MEDWING:         rgba(128,102,97,1);    /* #806661 */
+    --f21LIGHTWING:       rgba(207,166,157,1);   /* #cfa69d */
+  
+    --f16DARKBEAK:        rgba(112,24,26,1);     /* #70181a */
+    --f17MEDBEAK:         rgba(150,32,35,1);     /* #962023 */ 
+    --f18LIGHTBEAK:       rgba(215,45,50,1);     /* #d72d32 */
+  
+    --f22-DARKSPACE:      rgba(8, 18, 28,1);     /* #08121c */
+    --f23-MEDSPACE:       rgba(27,56,84,1);      /*  #1b3854 */
+    --f24-LIGHTSPACE:     rgba(38, 77, 115,1);   /*  #264d73 */
+  }
