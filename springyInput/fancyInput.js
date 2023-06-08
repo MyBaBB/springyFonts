@@ -4,8 +4,9 @@
 
 	MIT-style license.
 */
-
+  
 ;(function($){
+	
 	"use strict";
 	var isIe = !!window.ActiveXObject,
 		isWebkit = 'WebkitAppearance' in document.documentElement.style,
